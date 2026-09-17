@@ -1,154 +1,174 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jane1840/Jane1840/main/profile-banner.png.png" alt="Jane Aspavia GitHub Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Jane1840/Jane1840/main/profile-banner.png.png" alt="Jane Aspavia Profile Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Jane Aspavia</h1>
-
-<h3 align="center">Cybersecurity Analyst | Ethical Hacker | Tech Educator | Forex Trader</h3>
+<br>
 
 <p align="center">
-  <a href="https://github.com/Jane1840">
-    <img src="https://img.shields.io/badge/GitHub-Jane1840-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=950&lines=Cybersecurity+Analyst;Director+of+Training+%40+Webstack+ICT+Global;Community+Manager+%40+MindTheGap+Anambra;ICANN+Anti-Phishing+Volunteer;Artificial+Intelligence+Advocate;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker+and+Tech+Mentor;Forex+Trader+%26+Financial+Market+Analyst;Empowering+Africa+Through+Technology+and+Cybersecurity" alt="Typing SVG">
 </p>
 
 ---
 
-## 👩🏽‍💻 About Me
+# 👋 Hi, I'm Jane Aspavia
 
-I'm a technology enthusiast passionate about **Cybersecurity, Ethical Hacking, Programming, and Digital Education**.
+### 🛡️ Cybersecurity Analyst | Ethical Hacker | Tech Educator | Community Builder
 
-I am focused on developing practical cybersecurity skills, building security-focused projects, and helping beginners understand technology through hands-on learning.
+I am passionate about **cybersecurity, technology, artificial intelligence, and digital education**, with a strong interest in helping individuals develop practical skills that can prepare them for the digital economy.
 
-I believe that **technology education should be accessible and practical**, especially for young people looking to build sustainable careers in the digital economy.
+I enjoy learning, building, teaching, speaking, and creating opportunities for others to grow through technology.
 
-* 🔐 Cybersecurity & Ethical Hacking
-* 🛡️ Security Analysis
-* 🐍 Python Programming
-* 🌐 Web Security
-* 📊 Data Analysis
-* 💻 Technology Education
-* 📈 Forex Trading
+> **Learn. Build. Secure. Empower.**
 
 ---
 
-## 🛡️ Cybersecurity
+## 🛡️ About Me
 
-My cybersecurity interests include:
+* 🔐 Cybersecurity Analyst
+* 🎓 Director of Training at **Webstack ICT Global**
+* 🌍 Community Manager at **MindTheGap Anambra**
+* 🛡️ ICANN Anti-Phishing Volunteer
+* 🤖 Artificial Intelligence Advocate
+* 🐧 Linux Enthusiast
+* 💻 Ethical Hacker in Training
+* 🎤 Public Speaker & Tech Mentor
+* 📈 Forex Trader & Financial Market Analyst
+* 🚀 Passionate about empowering Africa through technology and cybersecurity
+
+---
+
+## 🔥 What I Do
+
+### Cybersecurity
+
+I am focused on developing practical cybersecurity skills across areas such as:
 
 * Ethical Hacking
 * Vulnerability Assessment
-* Penetration Testing
 * Network Security
 * Web Application Security
 * Linux Security
-* Security Monitoring
-* Threat Analysis
-* OSINT
+* Penetration Testing
 * Security Awareness
+* Threat Analysis
 
-I enjoy learning through **hands-on labs, practical exercises, CTFs, and security projects**.
+### 🎓 Technology Education
+
+I believe practical technology education can create meaningful opportunities for young people.
+
+Through training, mentorship, community building, and hands-on projects, I help beginners take their first steps into the technology and cybersecurity industry.
 
 ---
 
 ## 🧰 Tools & Technologies
 
-### Cybersecurity
+<p align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=linux,kali,python,html,css,git,github,vscode,bash" />
+
 </p>
 
-### Programming & Development
+### 🔐 Cybersecurity Tools
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</p>
+`Nmap` • `Metasploit` • `Burp Suite` • `OWASP ZAP` • `Searchsploit` • `Websploit`
+
+### 💻 Technical Skills
+
+`Linux` • `Python` • `Bash` • `HTML` • `CSS` • `Git` • `GitHub`
+
+---
+
+## 🧪 Hands-On Cybersecurity
+
+I believe cybersecurity is best learned by **doing**.
+
+My learning and training environment includes practical work with:
+
+* 🐧 Kali Linux
+* 🎯 Metasploitable 2
+* 🔎 Network reconnaissance
+* 🕵️ Vulnerability assessment
+* 🌐 Web application security
+* 💥 Exploitation in controlled lab environments
+* 🔐 Security testing and analysis
+
+> **Build your lab. Break things ethically. Understand how they work. Secure them.**
 
 ---
 
 ## 📚 Currently Learning
 
-I'm continuously improving my skills in:
+```text
+Cybersecurity
+├── Ethical Hacking
+├── Penetration Testing
+├── Network Security
+├── Web Application Security
+├── Vulnerability Assessment
+└── Security Analysis
 
-* 🔐 Advanced Cybersecurity
-* 🕵️ Ethical Hacking & Penetration Testing
-* 🌐 Web Application Security
-* 🐧 Linux Administration & Security
-* 🐍 Python for Cybersecurity
-* 📊 Data Analysis
-* ☁️ Cloud Security
-* 🤖 Artificial Intelligence & Cybersecurity
+Technology
+├── Python
+├── Linux
+├── Artificial Intelligence
+└── Digital Transformation
+```
 
 ---
 
-## 🎯 My Mission
+## 🚀 My Mission
 
-> **Learn. Build. Secure. Teach.**
+My mission is to contribute to a more digitally skilled and cyber-aware Africa by making technology education more accessible.
 
-My goal is to continuously develop practical technology skills, build useful projects, and help more people discover opportunities in the technology industry.
+I want to help more young people:
 
-I am particularly passionate about helping beginners take their **first steps into cybersecurity and technology**.
+**Learn → Build → Create → Secure → Lead**
 
 ---
 
 ## 📂 Featured Projects
 
-Here are some of the areas you can expect to find in my repositories:
+🔹 **Cybersecurity Labs**
+Hands-on cybersecurity exercises, labs, and security experiments.
 
-🔐 **Cybersecurity Labs**
-Hands-on cybersecurity experiments, notes, and practical exercises.
+🔹 **Python Projects**
+Projects designed to strengthen my programming and automation skills.
 
-🐍 **Python Projects**
-Automation, scripting, and beginner-friendly Python projects.
+🔹 **Security Research**
+Practical exploration of vulnerabilities, security tools, and defensive techniques.
 
-🌐 **Web Security Projects**
-Projects focused on understanding and improving web application security.
-
-📊 **Data Analysis**
-Projects involving data exploration, analysis, and visualization.
-
-📚 **Learning Resources**
-Notes, documentation, and resources from my technology learning journey.
+🔹 **Learning Resources**
+Resources and materials designed to help beginners start their cybersecurity journey.
 
 ---
 
-## 📈 My GitHub Journey
+## 📊 GitHub Journey
 
-I use GitHub to document my learning journey, build practical projects, and create a portfolio that demonstrates my technical skills.
-
-Every project represents an opportunity to **learn something new, solve a problem, and become better at what I do.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jane1840&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jane1840&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" height="170">
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🌍 Let's Connect
 
-I'm always open to connecting with:
+<p align="center">
 
-* Cybersecurity professionals
-* Developers
-* Technology enthusiasts
-* Students and beginners
-* Researchers
-* Potential collaborators
+<a href="https://github.com/Jane1840">
+<img src="https://img.shields.io/badge/GitHub-Jane1840-181717?style=for-the-badge&logo=github">
+</a>
 
-If you're interested in **cybersecurity, technology, education, or collaboration**, feel free to connect.
+</p>
 
 ---
 
 <p align="center">
-  <b>Build. Learn. Secure. Grow.</b>
+  <strong>Empowering Africa Through Technology & Cybersecurity 🌍</strong>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
+  <i>Build. Learn. Secure. Grow.</i>
 </p>
+
 
